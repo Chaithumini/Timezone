@@ -21,7 +21,7 @@ The Module which displays the current time based on the timezone configured in t
 REQUIREMENTS
 ------------
 
-Need to install the custom theme desined for this before module install, You can get it from https://github.com/Chaithumini/Timezone-Theme.git
+Need to install the custom theme designed for this before module install, You can get the theme from - git clone https://github.com/Chaithumini/Timezone-Theme.git
 
 INSTALLATION
 ------------
@@ -37,7 +37,7 @@ CONFIGURATION
 
  To configure the Timezone Settings
   *  Go to Admin > Timezone settings (Placed in the Admin toolbar).
-  *  Enter the City, State and Select the Timezone from the given list.
+  *  Enter the Country, City and Select the Timezone from the given list.
   *  Save the changes.
   *  Site Administrator can have the permission to set the Timezone.
 
